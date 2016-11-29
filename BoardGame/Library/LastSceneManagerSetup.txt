@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/defsdfs.unity
+  isLoaded: 1
+  isActive: 1
